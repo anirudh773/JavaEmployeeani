@@ -4,9 +4,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class Employee implements Serializable{
-	/**
-	 * 
-	 */
+
+
 	private static final long serialVersionUID = -6749533651814123022L;
 	private Integer empId;
 	private String name;
